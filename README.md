@@ -23,22 +23,8 @@ Hi, I'm **Himanshu Nayak** — a developer, cloud enthusiast, and tech entrepren
 
 ---
 
-## 📚 Projects & Work
-
-- Cloud Automation: automation tools for managing VMs on Azure/AWS
-- Blockchain Explorer: building a BscScan-like explorer
-- Automation Systems: browser/profile automation and Zoom bot
-- Email & API Systems: integrations with Microsoft Graph and Outlook
-
----
-
 ## 📫 Contact
 
-- GitHub: (add your profile link)
-- Email: (add your email)
+- Email: (himanshu@aliens.company)
 
 ---
-
-## Notes
-
-- This README was updated to reflect the `me.md` content. Replace the GitHub and Email placeholders in `me.md` and here with your real links.
