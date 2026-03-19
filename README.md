@@ -1,31 +1,46 @@
-# Himanshu Nayak
+# 👋 Himanshu Nayak
 
-## 👋 About Me
+🚀 **AI-First Software Engineer | Backend & Cloud Systems Builder**
 
-Hi, I'm **Himanshu Nayak** — a developer, cloud enthusiast, and tech entrepreneur. I work across backend development, cloud infrastructure, automation, and system architecture.
+I design and build scalable backend systems, cloud infrastructure, and automation platforms.
+My approach is **AI-first engineering** — using intelligent systems to automate workflows and build high-performance architectures.
 
 ---
 
-## 🚀 What I Do
+## ⚡ What I Do
 
-- **Full-Stack & Backend Development:** PHP, Node.js, API design
-- **Cloud & DevOps:** Azure, AWS, GCP, VM automation
-- **Automation & Scripting:** Browser automation, headless systems
-- **Security & Research:** Server security and reconnaissance techniques
+* 🧠 **AI-First Engineering** – Building intelligent automation systems
+* ⚙️ **Backend Development** – PHP, Node.js, API architecture
+* ☁️ **Cloud Infrastructure** – AWS, Azure, GCP (VMs, scaling, deployments)
+* 🔄 **Automation Systems** – Browser automation, headless workflows
+* 🔐 **Security & Research** – Server security, reconnaissance techniques
 
 ---
 
 ## 🛠 Tech Stack
 
-- Languages: PHP, JavaScript, Java, Bash
-- Cloud: Azure, AWS, GCP
-- Tools: GitHub, Chrome Extensions, Linux
+* **Languages:** PHP, JavaScript, Java, Bash
+* **Backend:** REST APIs, system architecture
+* **Cloud:** AWS, Azure, GCP
+* **Tools:** Linux, GitHub, Chrome Extensions
 
 ---
 
-## 📫 Contact
+## 🚀 Current Focus
 
-- Email: (himanshu@aliens.company)
-- Website: (https://himanshu.im/)
+* AI-powered automation systems
+* Scalable backend infrastructure
+* Cloud-based distributed systems
 
 ---
+
+## 📫 Connect With Me
+
+* 🌐 Website: https://himanshu.im
+* 📧 Email: [himanshu@aliens.company](mailto:himanshu@aliens.company)
+
+---
+
+## ⚡ Philosophy
+
+> Building systems that scale, automate, and think.
