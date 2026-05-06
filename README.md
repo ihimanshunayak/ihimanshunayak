@@ -43,4 +43,4 @@ My approach is **AI-first engineering** — using intelligent systems to automat
 
 ## ⚡ Philosophy
 
-> Building systems that scale, automate, and think.
+> > > > > > Building systems that scale, automate, and think.
